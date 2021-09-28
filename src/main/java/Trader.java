@@ -98,8 +98,8 @@ public class Trader {
                 new Horse(),
                 new Horse(),
                 // TODO: Add Tradable objects here!
-                new Cat()
-
+                new Cat(),
+                new Bus(100, 10)
         );
 
         /* Below, we've created two Traders. Their money, inventory, and
